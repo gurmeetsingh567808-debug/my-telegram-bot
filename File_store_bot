@@ -30,8 +30,8 @@ from telegram.ext import (
 # ============================================================
 # CONFIG (HARDCODED)
 # ============================================================
-BOT_TOKEN = "8341635542:AAEfZewFWGfyaLpZqhzcdhEIlGzOH1rIUes"
-BOT_USERNAME = "Obito_08_bot"
+BOT_TOKEN = "Bot_Token"
+BOT_USERNAME = "Bot_Username"
 
 GROUP_ID = -1003242713121
 OWNER_ID = 6690196088
